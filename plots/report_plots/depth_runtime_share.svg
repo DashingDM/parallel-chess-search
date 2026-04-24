@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="#fcfbf7"/>
+<text x="90" y="38" font-size="28" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Runtime Share by Search Depth</text>
+<text x="90" y="64" font-size="15" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">Percentage of total benchmark runtime contributed by each depth</text>
+<line x1="90" y1="530.00" x2="950" y2="530.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="535.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0%</text>
+<line x1="90" y1="442.00" x2="950" y2="442.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="447.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">20%</text>
+<line x1="90" y1="354.00" x2="950" y2="354.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="359.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">40%</text>
+<line x1="90" y1="266.00" x2="950" y2="266.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="271.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">60%</text>
+<line x1="90" y1="178.00" x2="950" y2="178.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="183.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">80%</text>
+<line x1="90" y1="90.00" x2="950" y2="90.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="95.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">100%</text>
+<line x1="90" y1="90" x2="90" y2="530" stroke="#746b58" stroke-width="1.5"/>
+<line x1="90" y1="530" x2="950" y2="530" stroke="#746b58" stroke-width="1.5"/>
+<rect x="770" y="28" width="16" height="16" fill="#c46b29" rx="3"/>
+<text x="794" y="41" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Depth 4</text>
+<rect x="770" y="52" width="16" height="16" fill="#2f7f63" rx="3"/>
+<text x="794" y="65" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Depth 5</text>
+<rect x="770" y="76" width="16" height="16" fill="#2457a7" rx="3"/>
+<text x="794" y="89" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Depth 6</text>
+<rect x="305.00" y="512.98" width="430.00" height="17.02" fill="#c46b29"/>
+<rect x="305.00" y="447.10" width="430.00" height="65.88" fill="#2f7f63"/>
+<rect x="305.00" y="90.00" width="430.00" height="357.10" fill="#2457a7"/>
+<text x="520.00" y="558" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">Full Benchmark</text>
+</svg>

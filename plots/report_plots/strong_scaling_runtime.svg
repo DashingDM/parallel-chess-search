@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="#fcfbf7"/>
+<text x="90" y="38" font-size="28" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Strong Scaling: Average Runtime vs Thread Count</text>
+<text x="90" y="64" font-size="15" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">Derived from tal_full_results.csv using parallel rows only</text>
+<line x1="90" y1="530.00" x2="950" y2="530.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="535.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.00</text>
+<line x1="90" y1="456.67" x2="950" y2="456.67" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="461.67" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.04</text>
+<line x1="90" y1="383.33" x2="950" y2="383.33" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="388.33" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.09</text>
+<line x1="90" y1="310.00" x2="950" y2="310.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="315.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.13</text>
+<line x1="90" y1="236.67" x2="950" y2="236.67" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="241.67" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.18</text>
+<line x1="90" y1="163.33" x2="950" y2="163.33" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="168.33" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.22</text>
+<line x1="90" y1="90.00" x2="950" y2="90.00" stroke="#ded8c9" stroke-width="1"/>
+<text x="78" y="95.00" text-anchor="end" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">0.27</text>
+<line x1="90.00" y1="90" x2="90.00" y2="530" stroke="#e8e2d5" stroke-width="1"/>
+<text x="90.00" y="558" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">1</text>
+<line x1="147.33" y1="90" x2="147.33" y2="530" stroke="#e8e2d5" stroke-width="1"/>
+<text x="147.33" y="558" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">2</text>
+<line x1="262.00" y1="90" x2="262.00" y2="530" stroke="#e8e2d5" stroke-width="1"/>
+<text x="262.00" y="558" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">4</text>
+<line x1="491.33" y1="90" x2="491.33" y2="530" stroke="#e8e2d5" stroke-width="1"/>
+<text x="491.33" y="558" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">8</text>
+<line x1="950.00" y1="90" x2="950.00" y2="530" stroke="#e8e2d5" stroke-width="1"/>
+<text x="950.00" y="558" text-anchor="middle" font-size="13" font-family="Helvetica, Arial, sans-serif" fill="#5a5a5a">16</text>
+<line x1="90" y1="90" x2="90" y2="530" stroke="#746b58" stroke-width="1.5"/>
+<line x1="90" y1="530" x2="950" y2="530" stroke="#746b58" stroke-width="1.5"/>
+<text x="520.00" y="598" text-anchor="middle" font-size="16" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Thread Count</text>
+<text x="26" y="310.00" text-anchor="middle" transform="rotate(-90 26 310.00)" font-size="16" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Average Time (seconds)</text>
+<polyline fill="none" stroke="#c46b29" stroke-width="3" points="90.00,513.38 147.33,517.66 262.00,520.16 491.33,521.62 950.00,511.67"/>
+<circle cx="90.00" cy="513.38" r="4.5" fill="#c46b29"/>
+<circle cx="147.33" cy="517.66" r="4.5" fill="#c46b29"/>
+<circle cx="262.00" cy="520.16" r="4.5" fill="#c46b29"/>
+<circle cx="491.33" cy="521.62" r="4.5" fill="#c46b29"/>
+<circle cx="950.00" cy="511.67" r="4.5" fill="#c46b29"/>
+<polyline fill="none" stroke="#2f7f63" stroke-width="3" points="90.00,459.00 147.33,479.08 262.00,486.72 491.33,492.02 950.00,490.26"/>
+<circle cx="90.00" cy="459.00" r="4.5" fill="#2f7f63"/>
+<circle cx="147.33" cy="479.08" r="4.5" fill="#2f7f63"/>
+<circle cx="262.00" cy="486.72" r="4.5" fill="#2f7f63"/>
+<circle cx="491.33" cy="492.02" r="4.5" fill="#2f7f63"/>
+<circle cx="950.00" cy="490.26" r="4.5" fill="#2f7f63"/>
+<polyline fill="none" stroke="#2457a7" stroke-width="3" points="90.00,90.00 147.33,240.93 262.00,309.82 491.33,350.31 950.00,362.16"/>
+<circle cx="90.00" cy="90.00" r="4.5" fill="#2457a7"/>
+<circle cx="147.33" cy="240.93" r="4.5" fill="#2457a7"/>
+<circle cx="262.00" cy="309.82" r="4.5" fill="#2457a7"/>
+<circle cx="491.33" cy="350.31" r="4.5" fill="#2457a7"/>
+<circle cx="950.00" cy="362.16" r="4.5" fill="#2457a7"/>
+<line x1="740" y1="36" x2="762" y2="36" stroke="#c46b29" stroke-width="3"/>
+<circle cx="751" cy="36" r="4" fill="#c46b29"/>
+<text x="772" y="41" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Depth 4</text>
+<line x1="740" y1="60" x2="762" y2="60" stroke="#2f7f63" stroke-width="3"/>
+<circle cx="751" cy="60" r="4" fill="#2f7f63"/>
+<text x="772" y="65" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Depth 5</text>
+<line x1="740" y1="84" x2="762" y2="84" stroke="#2457a7" stroke-width="3"/>
+<circle cx="751" cy="84" r="4" fill="#2457a7"/>
+<text x="772" y="89" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#1c1c1c">Depth 6</text>
+</svg>
