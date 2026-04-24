@@ -1,4 +1,4 @@
-# Chess HPC Code Bundle
+# Chess HPC Code 
 
 This folder contains the core implementation for the Chess HPC project.
 
