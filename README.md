@@ -1,6 +1,6 @@
-# Chess HPC Submission Package
+# Chess HPC Project
 
-This folder is the cleaned project bundle for the Chess HPC study. It is organized to be easy to share, review, and upload as a standalone package.
+This folder is the cleaned project bundle for the parallel search used in chess engine. It is organized to be easy to share, review, and upload as a standalone package.
 
 ## Package Structure
 
@@ -48,8 +48,3 @@ If someone is reviewing the project for the first time, the best order is:
 7. `plots/report_plots/weak_scaling_runtime.svg`
 8. `plots/report_plots/weak_scaling_efficiency.svg`
 
-## Notes
-
-- This package intentionally keeps the project structured by source, data, results, and plots.
-- Some logs are included for reproducibility, but temporary macOS metadata and redundant zip artifacts should be excluded from sharing.
-- The engine is a benchmark-focused academic project, not a full tournament-grade chess engine.
